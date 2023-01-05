@@ -1,4 +1,4 @@
-<h1 align="center">:file_cabinet: Jogo da Velhar</h1>
+<h1 align="center">:file_cabinet: Jogo da Velha</h1>
 
 <img align="center" title="Printscreen" src="https://github.com/ur4sh1/DesafioReact3/blob/main/public/2023-01-04.png" />
 
