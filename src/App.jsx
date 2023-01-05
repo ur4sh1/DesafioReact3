@@ -81,13 +81,11 @@ export function App() {
 
   return (
     <>
-    
       <div className="board-game">
         {gameData.map((value, index)=>(
           <span onClick={()=> {handleClick(index)}}
           key={index}
           className={winnerOk?.indexes.includes(index) ? winnerOk.orientation : undefined}>
-            <abbr title="">{index}</abbr>
             {value === 1 && '❌'}
             {value === 2 && '⭕'}
           </span> 
